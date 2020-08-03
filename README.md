@@ -11,7 +11,7 @@
 
 # ![Proffy][logo-url]
 
-## Plataforma de estudos online, onde é possivel conectar alunos com professores.
+### Plataforma de estudos online, onde é possivel conectar alunos com professores.
 
 [![web][web-badge]](web)
 [![backend][backend-badge]](backend)
