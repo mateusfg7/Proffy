@@ -27,4 +27,30 @@ O Proffy é um projeto que esta sendo desenvolvido durante a **Next Level Week #
 
 Este projeto esta sendo codado na trilha OmniStack, que desenvolve a stack JavaScript completa, do zero, criando as versões Web, Mobile e Back-End da aplicação.
 
-> Coded By [@mateusfg7](https://github.com/mateusfg7)
+> [Anotações - NOTES.md](NOTES.md)
+
+---
+
+<div align="center">
+
+<table>
+  <tr align="center">
+    <td>Coded By</td><td>Instrutor</td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/mateusfg7">
+        <img src="https://avatars1.githubusercontent.com/u/40613276?v=4" width 
+        ="100" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diego3g">
+        <img src="https://avatars2.githubusercontent.com/u/2254731?v=4" width 
+        ="100" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
