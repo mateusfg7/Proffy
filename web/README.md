@@ -8,6 +8,43 @@ A versão web da aplicação fei desenvolvida usando a metodologia _mobile first
 
 Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](https://www.typescriptlang.org/) para o desenvolvimento da aplicação web.
 
-### Screenshots
+_home_
+
+<img src="../.github/docs/screenshots/web/home.png" width="700"/>
+
+_study page_
+
+<img src="../.github/docs/screenshots/web/study.png" width="700"/>
+<img src="../.github/docs/screenshots/web/study2.png" width="700"/>
 
 </div>
+
+---
+
+## Instalar dependencias
+
+_yarn_
+
+```bash
+$ yarn
+```
+
+_npm_
+
+```bash
+$ npm install
+```
+
+## Iniciar aplicação
+
+_yarn_
+
+```bash
+$ yarn start
+```
+
+_npm_
+
+```bash
+$ npm start
+```
