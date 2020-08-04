@@ -14,3 +14,6 @@ conceitos Back-End:
 - Recomendações de pesquisa
 	- **Streams**: _Realizar tarefas aos poucos, ex: ler um arquivo linha por linha e ja ir trabalhando com as informações antes de ler todo o arquivo._
 	- **Worker Threads**: _Nos permite trabalhar com todos os cores do CPU para realizar ações com Node._
+
+Tools
+- Migrations: controla a versão do banco de dados

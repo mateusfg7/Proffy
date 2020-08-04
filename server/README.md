@@ -1,3 +1,7 @@
+# Initial configurations
+
+`yarn knex:migrate` to create the database
+
 # Funcionalidades
 
 ## Conexões
