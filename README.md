@@ -14,7 +14,7 @@
 ### Plataforma de estudos online, onde é possivel conectar alunos com professores.
 
 [![web][web-badge]](web)
-[![backend][backend-badge]](backend)
+[![backend][backend-badge]](server)
 [![mobile][mobile-badge]](mobile)
 
 ![](.github/docs/img/landing.svg)
