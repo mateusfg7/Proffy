@@ -26,3 +26,5 @@
 O Proffy é um projeto que esta sendo desenvolvido durante a **Next Level Week #2** da [@Rocketseat](https://github.com/Rocketseat), durante os dias _3 à 7 de Agosto de 2020_.
 
 Este projeto esta sendo codado na trilha OmniStack, que desenvolve a stack JavaScript completa, do zero, criando as versões Web, Mobile e Back-End da aplicação.
+
+> Coded By [@mateusfg7](https://github.com/mateusfg7)
