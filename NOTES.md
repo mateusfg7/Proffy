@@ -6,6 +6,8 @@
 
 A web foi construida usando a metodologia mobile first
 
+[react-select](https://react-select.com/) -> biblioteca de estilização da tag select do HTML
+
 [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
 
 conceitos Back-End:
