@@ -96,7 +96,7 @@ O servidor da aplicação foi desenvolvido seguindo a metodologia _API Rest_ par
 
 Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](https://www.typescriptlang.org/), banco de dados [**SQLite3**](https://sqlite.org/) com query builder [**Knex**](http://knexjs.org/), e o framework [**Express**](http://expressjs.com/), no desenvolvimento da API Rest.
 
-## **Funcionalidades**
+## Funcionalidades
 
 ### Conexões
 
@@ -109,51 +109,37 @@ Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](
 - _Rota para listar aulas._
   - _Filtrar por matéria, dia da semana, e horário._
 
-## **Configurações Iniciais**
+## **Getting Started**
 
-### Instalar dependencias
+Entre na pasta [`server/`](server/) e execute os seguintes comandos:
 
-_yarn_
-
+_com **npm**_
 ```bash
-$ yarn
-```
-
-_npm_
-
-```bash
+# Instalar dependências
 $ npm install
-```
 
-### Criar banco de dados
-
-_yarn_
-
-```bash
-$ yarn knex:migrate
-```
-
-_npm_
-
-```bash
+# Criar database
 $ npm knex:migrate
+
+# Iniciar servidor
+$ npm start
 ```
 
-> _src/database/database.sqlite_
-
-### Iniciar servidor
-
-_yarn_
-
+_com **yarn**_
 ```bash
+# Instalar dependências
+$ yarn
+
+# Criar banco de dados
+$ yarn knex:migrate
+
+# Iniciar servidor de desenvolvimento
 $ yarn start
 ```
 
-_npm_
 
-```bash
-$ npm start
-```
+> O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
+
 
 > _http://localhost:3333_
 
