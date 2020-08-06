@@ -33,6 +33,62 @@ Este projeto esta sendo codado na trilha OmniStack, que desenvolve a stack JavaS
 
 <div align="center">
 
+# _**WEB**_
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffacebook.github.io%2Freact%2Ffavicon.ico&f=1&nofb=1" width="30" height="30" />
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.software-architects.com%2Fcontent%2Fimages%2Fblog%2F2016%2F12%2Ftypescript-logo.png&f=1&nofb=1" width="30" height="30" />
+</div>
+
+A versão web da aplicação fei desenvolvida usando a metodologia _mobile first_, em que a aplicação é pensada primeiramente para dispositivos mobile, e depois é adaptada para dispositivos desktops.
+
+Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](https://www.typescriptlang.org/) para o desenvolvimento da aplicação web.
+
+<img src=".github/docs/screenshots/web/home.png" width="800" />
+
+| <img src=".github/docs/screenshots/web/study.png" width="400" height="500" /> | <img src=".github/docs/screenshots/web/cadastro.png" width="400" height="500" > |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+
+
+> O código fonta da aplicação web esta na pasta [`web/`](web/)
+
+## Instalar dependencias
+
+<details>
+  <summary><i>com <strong>npm</strong><i></summary>
+  
+  ```bash
+  $ npm install
+  ```
+</details>
+<details>
+  <summary><i>com <strong>yarn</strong><i></summary>
+  
+  ```bash
+  $ yarn
+  ```
+</details>
+
+## Iniciar aplicação
+
+<details>
+  <summary><i>com <strong>npm</strong><i></summary>
+  
+  ```bash
+  $ npm start
+  ```
+</details>
+<details>
+  <summary><i>com <strong>yarn</strong><i></summary>
+  
+  ```bash
+  $ yarn starts
+  ```
+</details>
+
+---
+
+<div align="center">
+
 <table>
   <tr align="center">
     <td>Coded By</td><td>Instrutor</td>
