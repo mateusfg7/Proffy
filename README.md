@@ -141,7 +141,7 @@ $ yarn start
 > O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
 
 
-> _http://localhost:3333_
+> O endereço padrão do servidor Node é [`http://localhost:3333`](http://localhost:3333)
 
 ---
 
