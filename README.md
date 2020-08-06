@@ -96,6 +96,37 @@ O aplicação mobile foi desenvolvida usando o framework [**React Native**](http
 
 <img src=".github/docs/screenshots/mobile/home.png" width="400" height="700"><img src=".github/docs/screenshots/mobile/proffys.png" width="400" height="700">
 
+## Getting Started
+
+Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
+
+_com **npm**_
+```bash
+# Instalar expo-cli globalmente
+$ npm install expo-cli --global
+
+# Instalar dependências
+$ npm install
+
+```
+
+_com **yarn**_
+```bash
+# Instalar expo-cli globalmente
+$ yarn global add expo-cli
+
+# Instalar dependências
+$ yarn
+
+```
+
+Iniciar DevTools do expo
+```bash
+$ expo start
+```
+
+> O DevTools do Expo fica aberto por padrão em [`http://localhost:19002`](http://localhost:19002)
+
 
 
 <div align="center">
