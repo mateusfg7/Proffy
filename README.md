@@ -43,9 +43,9 @@ A versão web da aplicação fei desenvolvida usando a metodologia _mobile first
 
 Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](https://www.typescriptlang.org/) para o desenvolvimento da aplicação web.
 
-<img src=".github/docs/screenshots/web/home.png" width="500" />
+<img src=".github/docs/screenshots/web/home.png" width="600" />
 
-<img src=".github/docs/screenshots/web/study.png" width="250" height="500" /><img src=".github/docs/screenshots/web/cadastro.png" width="250" height="500" >
+<img src=".github/docs/screenshots/web/study.png" width="300" height="500" /><img src=".github/docs/screenshots/web/cadastro.png" width="300" height="500" >
 
 > O código fonta da aplicação web esta na pasta [`web/`](web/)
 
