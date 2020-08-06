@@ -45,7 +45,7 @@ Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](ht
 
 <img src=".github/docs/screenshots/web/home.png" width="100%" />
 
-<img src=".github/docs/screenshots/web/study.png" width="50%" height="500" /><img src=".github/docs/screenshots/web/cadastro.png" width="50%" height="500" >
+<img src=".github/docs/screenshots/web/study.png" width="50%" height="500" /> <img src=".github/docs/screenshots/web/cadastro.png" width="50%" height="500" >
 
 > O código fonta da aplicação web esta na pasta [`web/`](web/)
 
