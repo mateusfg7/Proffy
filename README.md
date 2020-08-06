@@ -14,8 +14,8 @@
 ### Plataforma de estudos online, onde é possivel conectar alunos com professores.
 
 [![web][web-badge]](#web)
-[![backend][backend-badge]](server)
-[![mobile][mobile-badge]](mobile)
+[![backend][backend-badge]](#server)
+[![mobile][mobile-badge]](#mobile)
 
 ![](.github/docs/img/landing.svg)
 
@@ -45,55 +45,56 @@ Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](ht
 
 <img src=".github/docs/screenshots/web/study.png" width="400" height="500" /> <img src=".github/docs/screenshots/web/cadastro.png" width="400" height="500" >
 
-> O código fonta da aplicação web esta na pasta [`web/`](web/)
+> O código fonta da aplicação web esta na pasta
 
-## Instalar dependencias
+## Getting Started
 
-<details>
-  <summary><i>com <strong>npm</strong><i></summary>
-  
-  ```bash
-  $ npm install
-  ```
-</details>
-<details>
-  <summary><i>com <strong>yarn</strong><i></summary>
-  
-  ```bash
-  $ yarn
-  ```
-</details>
+Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 
-## Iniciar aplicação
+_com **npm**_
+```bash
+# Instalar dependências
+$ npm install
 
-<details>
-  <summary><i>com <strong>npm</strong><i></summary>
-  
-  ```bash
-  $ npm start
-  ```
-</details>
-<details>
-  <summary><i>com <strong>yarn</strong><i></summary>
-  
-  ```bash
-  $ yarn starts
-  ```
-</details>
+# Iniciar servidor de desenvolvimento
+$ npm start
+```
 
----
+_com **yarn**_
+```bash
+# Instalar dependências
+$ yarn
+
+# Iniciar servidor de desenvolvimento
+$ yarn start
+```
+
+> O servidor de desenvolvimento fica aberto por padrão em `http://localhost:3000`
+
+Gerar código de produção
+
+_com **npm**_
+```bash
+$ npm build
+```
+
+_com **yarn**_
+```bash
+$ yarn build
+```
+
+> O código fica salvo em [`build/`](web/build)
+
 
 <div align="center">
 
-# ![Proffy](https://camo.githubusercontent.com/74c8681f6d4521903b63e79173a72f0b849243be/68747470733a2f2f692e696d6775722e636f6d2f73356c546465502e706e67)
+# _**Server**_
 
-### _Servidor **API**_
+</div>
 
 O servidor da aplicação foi desenvolvido seguindo a metodologia _API Rest_ para poder ser reaproveitada tanto na web quando em dispositivos mobile.
 
 Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](https://www.typescriptlang.org/), banco de dados [**SQLite3**](https://sqlite.org/) com query builder [**Knex**](http://knexjs.org/), e o framework [**Express**](http://expressjs.com/), no desenvolvimento da API Rest.
-
-</div>
 
 ---
 
