@@ -162,7 +162,7 @@ $ npm start
 
 <div align="center">
 
-<table>
+<table style="border: 1px solid red;">
 <tr align="center">
 
 <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffacebook.github.io%2Freact%2Ffavicon.ico&f=1&nofb=1" width="30" height="30" /></td>
