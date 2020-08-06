@@ -69,7 +69,7 @@ $ yarn
 $ yarn start
 ```
 
-> O servidor de desenvolvimento fica aberto por padrão em `http://localhost:3000`
+> O servidor de desenvolvimento fica aberto por padrão em [`http://localhost:3000`](http://localhost:3000)
 
 Gerar código de produção
 
@@ -95,8 +95,6 @@ $ yarn build
 O servidor da aplicação foi desenvolvido seguindo a metodologia _API Rest_ para poder ser reaproveitada tanto na web quando em dispositivos mobile.
 
 Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](https://www.typescriptlang.org/), banco de dados [**SQLite3**](https://sqlite.org/) com query builder [**Knex**](http://knexjs.org/), e o framework [**Express**](http://expressjs.com/), no desenvolvimento da API Rest.
-
----
 
 ## **Funcionalidades**
 
