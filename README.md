@@ -13,9 +13,9 @@
 
 ### Plataforma de estudos online, onde é possivel conectar alunos com professores.
 
-[![web][web-badge]](#web)
-[![backend][backend-badge]](#server)
-[![mobile][mobile-badge]](#mobile)
+[![web][web-badge]](#desktop_computer-web)
+[![backend][backend-badge]](#globe_with_meridians-server)
+[![mobile][mobile-badge]](#iphone-mobile)
 
 ![](.github/docs/img/landing.svg)
 
