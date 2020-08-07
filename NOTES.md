@@ -10,6 +10,9 @@ A web foi construida usando a metodologia mobile first
 
 [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
 
+[react-native-picker](https://github.com/react-native-community/react-native-picker) -> equivalente ao select do HTML
+
+
 conceitos Back-End:
 - Usados
 	- **No Blocking IO** (escrita pode estar errada): _executar várias tarefas ao mesmo tempo._
