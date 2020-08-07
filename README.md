@@ -33,7 +33,7 @@ Este projeto esta sendo codado na trilha OmniStack, que desenvolve a stack JavaS
 
 <div align="center">
 
-# _**WEB**_
+# :desktop_computer: _**WEB**_
 
 </div>
 
@@ -47,7 +47,7 @@ Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](ht
 
 > O código fonta da aplicação web esta na pasta
 
-## Getting Started
+## :arrow_forward: **Getting Started**
 
 Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 
@@ -88,7 +88,7 @@ $ yarn build
 
 <div align="center">
 
-# _**Mobile**_
+# :iphone: _**Mobile**_
 
 </div>
 
@@ -96,7 +96,7 @@ O aplicação mobile foi desenvolvida usando o framework [**React Native**](http
 
 <img src=".github/docs/screenshots/mobile/home.png" width="400" height="700"><img src=".github/docs/screenshots/mobile/proffys.png" width="400" height="700">
 
-## Getting Started
+## :arrow_forward: **Getting Started**
 
 Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
 
@@ -131,7 +131,7 @@ $ expo start
 
 <div align="center">
 
-# _**Server**_
+# :globe_with_meridians: _**Server**_
 
 </div>
 
@@ -139,7 +139,7 @@ O servidor da aplicação foi desenvolvido seguindo a metodologia _API Rest_ par
 
 Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](https://www.typescriptlang.org/), banco de dados [**SQLite3**](https://sqlite.org/) com query builder [**Knex**](http://knexjs.org/), e o framework [**Express**](http://expressjs.com/), no desenvolvimento da API Rest.
 
-## Funcionalidades
+## :pencil2: Funcionalidades
 
 ### Conexões
 
@@ -152,7 +152,7 @@ Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](
 - _Rota para listar aulas._
   - _Filtrar por matéria, dia da semana, e horário._
 
-## **Getting Started**
+## :arrow_forward: **Getting Started**
 
 Entre na pasta [`server/`](server/) e execute os seguintes comandos:
 
