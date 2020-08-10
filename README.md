@@ -196,7 +196,16 @@ $ yarn start
 
 <div align="center">
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffacebook.github.io%2Freact%2Ffavicon.ico&f=1&nofb=1" width="30" height="30"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.software-architects.com%2Fcontent%2Fimages%2Fblog%2F2016%2F12%2Ftypescript-logo.png&f=1&nofb=1" width="30" height="30" /> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FSqlite-square-icon.svg%2F256px-Sqlite-square-icon.svg.png&f=1&nofb=1" width="40" height="30" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F256%2Ffull%2Fnodejslogo.png&f=1&nofb=1" width="40" height="30" /> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OK5nAo07--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png" width="80" height="30"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fknexjs.org%2Fassets%2Fimages%2Fknex.png&f=1&nofb=1" width="80" height="30" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgeekflare.com%2Fwp-content%2Fuploads%2F2019%2F04%2Fexpress-routing-logo-65137ed3c844d05124dcfdab28263c21-ec9c1-e1554576195344.png&f=1&nofb=1" width="80" height="30" />
+<a href="https://reactjs.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffacebook.github.io%2Freact%2Ffavicon.ico&f=1&nofb=1" width="30" height="30"></a>
+<a href="https://reactnative.dev/"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fangular.github.io%2Freact-native-renderer%2Fassets%2Freact.png&f=1&nofb=1" width="30" height="30"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.software-architects.com%2Fcontent%2Fimages%2Fblog%2F2016%2F12%2Ftypescript-logo.png&f=1&nofb=1" width="30" height="30" /></a>
+<a href="https://sqlite.org/index.html"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FSqlite-square-icon.svg%2F256px-Sqlite-square-icon.svg.png&f=1&nofb=1" width="40" height="30" /></a>
+<a href="https://nodejs.org/en/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F256%2Ffull%2Fnodejslogo.png&f=1&nofb=1" width="40" height="30" /></a>
+<a href="https://reactnavigation.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F29647600%3Fs%3D200%26v%3D4&f=1&nofb=1" width="40" height="30" /></a>
+<a href="https://expo.io/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OK5nAo07--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png" width="80" height="30"></a>
+<a href="https://knexjs.org/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fknexjs.org%2Fassets%2Fimages%2Fknex.png&f=1&nofb=1" width="80" height="30" /></a>
+<a href="http://expressjs.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgeekflare.com%2Fwp-content%2Fuploads%2F2019%2F04%2Fexpress-routing-logo-65137ed3c844d05124dcfdab28263c21-ec9c1-e1554576195344.png&f=1&nofb=1" width="80" height="30" /></a>
+
 
 <table>
   <tr align="center">
