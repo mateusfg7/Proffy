@@ -99,7 +99,7 @@ O aplicação mobile foi desenvolvida usando o framework [**React Native**](http
 
 Home | Study | Favorites
 ---|---|---
-| ![home](.github/docs/screenshots/mobile/home.png) | ![study](.github/docs/screenshots/mobile/study.png) | ![favorites](.github/docs/screenshots/mobile/study.png) |
+| ![home](.github/docs/screenshots/mobile/home.png) | ![study](.github/docs/screenshots/mobile/study.png) | ![favorites](.github/docs/screenshots/mobile/favorites.png) |
 
 ## :arrow_forward: **Getting Started**
 
