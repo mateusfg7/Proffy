@@ -52,6 +52,7 @@ Foi usada as tecnologias [**React**](https://reactjs.org/) e [**Typescript**](ht
 Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 
 _com **npm**_
+
 ```bash
 # Instalar dependências
 $ npm install
@@ -61,6 +62,7 @@ $ npm start
 ```
 
 _com **yarn**_
+
 ```bash
 # Instalar dependências
 $ yarn
@@ -74,17 +76,18 @@ $ yarn start
 Gerar código de produção
 
 _com **npm**_
+
 ```bash
 $ npm build
 ```
 
 _com **yarn**_
+
 ```bash
 $ yarn build
 ```
 
 > O código fica salvo em [`build/`](web/build)
-
 
 <div align="center">
 
@@ -94,13 +97,16 @@ $ yarn build
 
 O aplicação mobile foi desenvolvida usando o framework [**React Native**](https://reactnative.dev/) com [**Typescript**](https://www.typescriptlang.org/), e a _SDK 38_ da ferramenta [**Expo**](https://expo.io/).
 
-<img src=".github/docs/screenshots/mobile/home.png" width="400" height="700"><img src=".github/docs/screenshots/mobile/proffys.png" width="400" height="700">
+Home | Study | Favorites
+---|---|---
+| ![home](.github/docs/screenshots/mobile/home.png) | ![study](.github/docs/screenshots/mobile/study.png) | ![favorites](.github/docs/screenshots/mobile/study.png) |
 
 ## Getting Started
 
 Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
 
 _com **npm**_
+
 ```bash
 # Instalar expo-cli globalmente
 $ npm install expo-cli --global
@@ -111,6 +117,7 @@ $ npm install
 ```
 
 _com **yarn**_
+
 ```bash
 # Instalar expo-cli globalmente
 $ yarn global add expo-cli
@@ -121,13 +128,12 @@ $ yarn
 ```
 
 Iniciar DevTools do expo
+
 ```bash
 $ expo start
 ```
 
 > O DevTools do Expo fica aberto por padrão em [`http://localhost:19002`](http://localhost:19002)
-
-
 
 <div align="center">
 
@@ -157,6 +163,7 @@ Foi usada as tecnologias [**NodeJS**](https://nodejs.org/) com [**Typescript**](
 Entre na pasta [`server/`](server/) e execute os seguintes comandos:
 
 _com **npm**_
+
 ```bash
 # Instalar dependências
 $ npm install
@@ -169,6 +176,7 @@ $ npm start
 ```
 
 _com **yarn**_
+
 ```bash
 # Instalar dependências
 $ yarn
@@ -180,18 +188,13 @@ $ yarn knex:migrate
 $ yarn start
 ```
 
-
 > O Banco de Dados fica salvo em [`src/database/database.sqlite`](src/database/database.sqlite)
-
 
 > O endereço padrão do servidor Node é [`http://localhost:3333`](http://localhost:3333)
 
 ---
 
 <div align="center">
-
-
-
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffacebook.github.io%2Freact%2Ffavicon.ico&f=1&nofb=1" width="30" height="30"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.software-architects.com%2Fcontent%2Fimages%2Fblog%2F2016%2F12%2Ftypescript-logo.png&f=1&nofb=1" width="30" height="30" /> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FSqlite-square-icon.svg%2F256px-Sqlite-square-icon.svg.png&f=1&nofb=1" width="40" height="30" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F256%2Ffull%2Fnodejslogo.png&f=1&nofb=1" width="40" height="30" /> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OK5nAo07--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rmqgubejyi0rjkn87moo.png" width="80" height="30"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fknexjs.org%2Fassets%2Fimages%2Fknex.png&f=1&nofb=1" width="80" height="30" /> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgeekflare.com%2Fwp-content%2Fuploads%2F2019%2F04%2Fexpress-routing-logo-65137ed3c844d05124dcfdab28263c21-ec9c1-e1554576195344.png&f=1&nofb=1" width="80" height="30" />
 
