@@ -34,6 +34,7 @@ Este projeto esta sendo codado na trilha OmniStack, que desenvolve a stack JavaS
 <div align="center">
 
 # :desktop_computer: _**WEB**_
+[![LAYOUT WEB](https://img.shields.io/badge/Layout%20Web-black?style=for-the-badge&logo=figma&logoColor=red)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?node-id=27%3A1703)
 
 </div>
 
@@ -92,6 +93,7 @@ $ yarn build
 <div align="center">
 
 # :iphone: _**Mobile**_
+[![LAYOUT MOBILE](https://img.shields.io/badge/Layout%20Mobile-black?style=for-the-badge&logo=figma&logoColor=red")]()
 
 </div>
 
