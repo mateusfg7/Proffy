@@ -11,7 +11,13 @@ import purpleHeartIcon from "../../assets/images/icons/purple-heart.svg";
 
 import api from "../../services/api";
 
-import "./styles.css";
+// import "./styles.css";
+import {
+  PageLanding,
+  LogoContainer,
+  ButtonsContainer,
+  TotalConnections,
+} from "./styles";
 
 function Landing() {
   const [totalConnections, setTotalConnections] = useState(0);
@@ -25,12 +31,12 @@ function Landing() {
   }, []);
 
   return (
-    <div id='page-landing'>
+    <PageLanding>
       <div id='page-landing-content' className='container'>
-        <div className='logo-container'>
+        <LogoContainer>
           <img src={logoImg} alt='Proffy' />
           <h2>Sua plataforma de estudos online</h2>
-        </div>
+        </LogoContainer>
 
         <img
           src={landingImg}
@@ -38,7 +44,7 @@ function Landing() {
           className='hero-image'
         />
 
-        <div className='buttons-container'>
+        <ButtonsContainer>
           <Link to='/study' className='study'>
             <img src={studyIcon} alt='Estudar' />
             Estudar
@@ -48,14 +54,14 @@ function Landing() {
             <img src={giveClassesIcon} alt='Estudar' />
             Dar Aulas
           </Link>
-        </div>
+        </ButtonsContainer>
 
-        <span className='total-connections'>
+        <TotalConnections>
           Total de {totalConnections} conexões{" "}
           <img src={purpleHeartIcon} alt='Coração roxo' />
-        </span>
+        </TotalConnections>
       </div>
-    </div>
+    </PageLanding>
   );
 }
 
