@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
 
@@ -65,4 +65,9 @@ textarea {
     font-size: 62.5%;
   }
 }
+`;
+
+export const Container = styled.div`
+  width: 90vw;
+  max-width: 700px;
 `;
