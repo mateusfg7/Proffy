@@ -77,7 +77,6 @@ export const Fieldset = styled.fieldset`
     padding: 0 6.4rem;
 
     .schedule-item {
-      border: 1px solid red;
       display: grid;
       grid-template-columns: 2fr 1fr 1fr;
       column-gap: 1.6rem;
