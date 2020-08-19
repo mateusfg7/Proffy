@@ -10,7 +10,7 @@ import Select from "../../components/Select";
 
 import warningIcon from "../../assets/images/icons/warning.svg";
 
-import "./styles.css";
+import { PageTeacherForm, Main, Fieldset, Footer, Button } from "./styles";
 
 function TeacherForm() {
   const history = useHistory();
@@ -71,15 +71,15 @@ function TeacherForm() {
   }
 
   return (
-    <div id='page-teacher-form' className='container'>
+    <PageTeacherForm>
       <PageHeader
         title='Que incrível que você quer dar aulas.'
         description='o primeiro passo é preencher esse formulário de inscrição.'
       />
 
-      <main>
+      <Main>
         <form onSubmit={handleCreateClass}>
-          <fieldset>
+          <Fieldset>
             <legend>Seus dados</legend>
 
             <Input
@@ -114,9 +114,9 @@ function TeacherForm() {
                 setBio(e.target.value);
               }}
             />
-          </fieldset>
+          </Fieldset>
 
-          <fieldset>
+          <Fieldset>
             <legend>Sobre a aula</legend>
 
             <Select
@@ -150,9 +150,9 @@ function TeacherForm() {
                 setCost(e.target.value);
               }}
             />
-          </fieldset>
+          </Fieldset>
 
-          <fieldset>
+          <Fieldset>
             <legend>
               Horários disponíveis
               <button type='button' onClick={addNewScheduleItem}>
@@ -194,6 +194,7 @@ function TeacherForm() {
                     name='to'
                     label='Até'
                     type='time'
+                    className='input-block'
                     value={scheduleItem.to}
                     onChange={(e) =>
                       setScheduleItemsValue(index, "to", e.target.value)
@@ -202,19 +203,19 @@ function TeacherForm() {
                 </div>
               );
             })}
-          </fieldset>
+          </Fieldset>
 
-          <footer>
+          <Footer>
             <p>
               <img src={warningIcon} alt='Aviso importante' />
               Importante! <br />
               Preencha todos os dados
             </p>
-            <button type='submit'>Salvar cadastro</button>
-          </footer>
+            <Button type='submit'>Salvar cadastro</Button>
+          </Footer>
         </form>
-      </main>
-    </div>
+      </Main>
+    </PageTeacherForm>
   );
 }
 
