@@ -7,7 +7,8 @@ import TeacherItem, { Teacher } from "../../components/TeacherItem";
 import Input from "../../components/Input";
 import Select from "../../components/Select";
 
-import "./styles.css";
+// import "./styles.css";
+import { PageTeacherList, SearchTeachers } from "./styles";
 
 function TeacherList() {
   const [teachers, setTeachers] = useState([]);
@@ -31,9 +32,9 @@ function TeacherList() {
   }
 
   return (
-    <div id='page-teacher-list' className='container'>
+    <PageTeacherList>
       <PageHeader title='Estes são os proffys disponíveis.'>
-        <form id='search-teachers' onSubmit={searchTeachers}>
+        <SearchTeachers onSubmit={searchTeachers}>
           <Select
             name='subject'
             label='Matéria'
@@ -84,7 +85,7 @@ function TeacherList() {
           />
 
           <button type='submit'>Buscar</button>
-        </form>
+        </SearchTeachers>
       </PageHeader>
 
       <main>
@@ -92,7 +93,7 @@ function TeacherList() {
           return <TeacherItem key={teacher.id} teacher={teacher} />;
         })}
       </main>
-    </div>
+    </PageTeacherList>
   );
 }
 
