@@ -194,7 +194,6 @@ function TeacherForm() {
                     name='to'
                     label='Até'
                     type='time'
-                    className='input-block'
                     value={scheduleItem.to}
                     onChange={(e) =>
                       setScheduleItemsValue(index, "to", e.target.value)

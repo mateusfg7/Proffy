@@ -15,8 +15,10 @@ export const PageTeacherForm = styled(Container)`
   @media (min-width: 700px) {
     max-width: 100vw;
 
-    .page-header .header-content {
-      margin-bottom: 0;
+    .page-header {
+      .header-content {
+        margin-bottom: 0;
+      }
     }
   }
 `;
